@@ -7,6 +7,6 @@ public class Hey{
 			System.out.println("Hey World..."+ i);
 		}
 		System.out.println("Heyaaa World...");
-		System.out.println("Hiiii World...");
+		System.out.println("H World...");
 	}
 }
